@@ -1,3 +1,6 @@
-# zadanie2
-![314312460_680987103661099_4695051819585897650_n](https://user-images.githubusercontent.com/117357346/200638717-54181218-3798-4fa6-9178-d98eca2d3347.jpg)
-![314393763_1487704368371046_2822608472986857751_n](https://user-images.githubusercontent.com/117357346/200638733-41c41819-f18d-4ec0-9381-4818246ef2c2.jpg)
+# MNGKW_LAB2
+
+Przykład na podstawie języka "PL/SQL"
+
+![IMG_1](https://user-images.githubusercontent.com/106968797/200635139-2e75f5d0-b109-49ed-b140-4a60a4c3693a.jpeg)
+![IMG_2](https://user-images.githubusercontent.com/106968797/200635154-6aebcc9e-708e-44bd-98b9-4a51c8532a8f.jpeg)
